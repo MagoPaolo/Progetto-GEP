@@ -28,3 +28,31 @@ L'applicazione usufruisce di diverse tecnologie:
 
 ## TARGET
 Il target dell'applicazione è ogni persona che possiede un veicolo, specialmente chi è più attento alle proprie finanze personali. La fonte di reddito principale proviene dal costo per la registrazione del veicolo nell'applicazione.
+
+## WBS
+
+Car status web-app
+
+1. Analisi e pianificazione
+- 1.1. Analisi della richiesta
+- 1.2. Specifica dei requisiti
+- 1.3. Valutazioni rischi
+- 1.4. Redazione SRS
+
+2. Sviluppo
+- 2.1. Programmazione front-end
+- 2.2. Programmazione back-end
+- 2.3. Integrazione database
+- 2.4. Implementazione tecnologie
+- 2.5. Sviluppo funzionalità
+
+3. Test
+- 3.1. Creazione casi di test
+- 3.2. Svolgimento test
+- 3.3. Individuazione bug grazie ai risultati dei test
+- 3.4. Risoluzione bug
+
+4. Deployment
+- 4.1. Implementazione autorizzazioni per gli utenti
+- 4.2. Implementazione crittografia
+- 4.3. Lancio web-app
