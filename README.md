@@ -61,4 +61,4 @@ Car status web-app
 
 DriveMate - Elimina ogni preoccupazione alla guida
 Drivemate è l'applicazione che ti permette di avere tutti i tuoi veicoli a portata di clic. Verifica le scadenze, traccia le spese e controlla che tutto sia in ordine con una facilità mai vista prima.
-![Car]([http://mdp.tylingsoft.com/icon.png](https://www.flaticon.com/free-icon/car_3418138?term=car&related_id=3418138)https://www.flaticon.com/free-icon/car_3418138?term=car&related_id=3418138)
+![Car]([https://ibb.co/yVdDqhr])
