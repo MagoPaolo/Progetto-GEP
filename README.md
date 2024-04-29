@@ -68,3 +68,4 @@ Drivemate è l'applicazione che ti permette di avere tutti i tuoi veicoli a port
 ## PIVOT - Multitenancy
 
 Per implementare la multitenancy nella mia applicazione bisgona effettuare un pivot. Invece che distribuire solamente l'applicazione ad utenti privati ho deciso di fornire un servizio aggiuntivo per le aziende che possiedono una flotta di veicoli (aziende di trasporto, taxi, car sharing.
+L'applicazione consente il monitoraggio dei veicoli in tempo reale,  la gestione dei carburanti e dei costi di manutenzione, la registrazione dei chilometraggi, la gestione dei conducenti, l'analisi dei dati sulla performance dei veicoli e la generazione di report.
