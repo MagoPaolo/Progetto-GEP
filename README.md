@@ -63,3 +63,8 @@ DriveMate - Elimina ogni preoccupazione alla guida
 Drivemate è l'applicazione che ti permette di avere tutti i tuoi veicoli a portata di clic. Verifica le scadenze, traccia le spese e controlla che tutto sia in ordine con una facilità mai vista prima.
 
 ![car](https://i.ibb.co/b7QxXHk/car.png)
+
+
+## PIVOT - Multitenancy
+
+Per implementare la multitenancy nella mia applicazione bisgona effettuare un pivot. Invece che distribuire solamente l'applicazione ad utenti privati ho deciso di fornire un servizio aggiuntivo per le aziende che possiedono una flotta di veicoli (aziende di trasporto, taxi, car sharing.
